@@ -1,1 +1,1 @@
-To survive, We have no choice but to coorperate.
+To survive, We have no choice but to work together.
