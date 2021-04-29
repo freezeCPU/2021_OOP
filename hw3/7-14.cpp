@@ -10,7 +10,7 @@ const double PI = 3.1415926535;
 
 int main()
 {
-   cout<<"CPoint:1,2"<<endl;
+   cout<<" CPoint:1,2"<<endl;
 cout<<"CirleArea:28.26"<<endl;
 cout<<"CcylinderVolume:113.04"<<endl;
 }
